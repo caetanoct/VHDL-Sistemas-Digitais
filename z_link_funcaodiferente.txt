@@ -1,0 +1,6 @@
+http://www.mediafire.com/file/60xgemw159dmd7y/projetoSD_2Part_27SET.zip/file
+-- Id: C.31
+  function "/=" (L, R: UNSIGNED) return BOOLEAN;
+  -- Result subtype: BOOLEAN
+  -- Result: Computes "L /= R" where L and R are UNSIGNED vectors possibly
+  --         of different lengths.
